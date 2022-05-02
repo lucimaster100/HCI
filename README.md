@@ -56,11 +56,7 @@
     <section id="game-ui" role="doc-structure">
         <h3>Game UI Sketches</h3>
         <p></p>
-    </section>
-    <section id="structure__viewpage" role="doc-structure">
-        <h3></h3>
-        <p></p>
-    </section>
+        </section>
     </header>
 </body>
 </html>
