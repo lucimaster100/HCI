@@ -39,7 +39,7 @@
     </section>
     <section id="genre" role="doc-introduction">
         <h3>2.1.Genre</h3>
-        <p>Puzzle platformer – In this game, you navigate levels using a side-scrolling view. The entire level is built with each object in place, but players only see a portion of the level. This is done by having the camera view follow the character’s movements. Players will not be able to move the camera on their own</p>
+        <p>2D Platformer – In this game, you navigate levels using a side-scrolling view. The entire level is built with each object in place, but players only see a portion of the level. This is done by having the camera view follow the character’s movements. Players will not be able to move the camera on their own. Scattered across the map there will be enemies that will attempt to defeat the player and various items that will help the player in their adventure</p>
     </section>
         <section id="target" role="doc-introduction">
         <h3>2.2.Target Audience</h3>
@@ -52,6 +52,7 @@
     <section id="startup-screen" role="doc-structure">
         <h3>Startup Screen</h3>
         <img src="Menu.png">
+        <p>This is a simple homescreen with options to start a new game, load a current save or change game settings</p>
         </section>
     <section id="game-ui" role="doc-structure">
         <h3>Game UI Sketches</h3>
