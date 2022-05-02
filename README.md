@@ -25,7 +25,7 @@
             <li><a href="#3-user-interface">User Interface</a>
                 <ol role="structure-directory">
                     <li><a href="#31-startap-screen">Startup Screen</a></li>
-                    <li><a href="#32-game-ui">Game UI Schetches</a></li>
+                    <li><a href="#32-game-ui">Game UI Sketches</a></li>
                 </ol>
             </li>
         </ol>
@@ -36,24 +36,23 @@
     </section>
     <section id="introduction" role="doc-introduction">
         <h2>2. Introduction</h2>
-        <p> </p>
     </section>
     <section id="introduction__project" role="doc-introduction">
-        <h3>2.1. The Project</h3>
-        <p></p>
+        <h3>2.1.Genre</h3>
+        <p>Puzzle platformer – In this game, you navigate levels using a side-scrolling view. The entire level is built with each object in place, but players only see a portion of the level. This is done by having the camera view follow the character’s movements. Players will not be able to move the camera on their own</p>\
+        <h3>2.2.Target Audience</h3>
+        <p>This game is for everybody. It will appeal to both seasoned gamers and those new to the hobby. The target age is 10+, and is not specific to any gender.</p>
     </section>
-    <section id="structure" role="doc-structure">
+    <section id="user-interface" role="doc-structure">
         <h2>3. User Interface</h2>
+        <p>Here are a few schetches of the user interface.</p>
+    </section>
+    <section id="startup-screen" role="doc-structure">
+        <h3>Startup Screen</h3>
         <p></p>
-    </section>
-    <section id="structure__landing" role="doc-structure">
-        <h3></h3>
-        <p></p>
-    </section>
-    <section id="structure__myacc_logged" role="doc-structure">
-    </section>
-    <section id="structure__creationpage" role="doc-structure">
-        <h3></h3>
+        </section>
+    <section id="game-ui" role="doc-structure">
+        <h3>Game UI Sketches</h3>
         <p></p>
     </section>
     <section id="structure__viewpage" role="doc-structure">
