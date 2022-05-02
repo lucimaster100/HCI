@@ -64,6 +64,11 @@
         <img src="minimap.png">
         <p>The minimap from the previous section will show the player a generic outline of the area they are in and gloing points for possible places of interest.</p>
         </section>
+        <section id="map" role="doc-structure">
+        <h3>The Expanded Map</h3>
+        <img src="ExpandedMap.png">
+        <p>The player can zoom out the map in a bigger window that will sou what has been discovered with markers for important places, undiscovered locations remaining hidden.</p>
+        </section>
     </header>
 </body>
 </html>
