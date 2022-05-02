@@ -20,7 +20,6 @@
             <li><a href="#2-introduction">Introduction</a> </li>
             <ol>
                 <li><a href="#21-the-project">The Project</a></li>
-                <li><a href="#22-the-gamification-system">Collecting Bottles on Web</a></li>
             </ol>
             <li><a href="#3-user-interface">User Interface</a>
                 <ol role="structure-directory">
