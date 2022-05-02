@@ -52,22 +52,22 @@
         <p>Here are a few schetches of the user interface.</p>
     </section>
     <section id="startup-screen" role="doc-structure">
-        <h3>Startup Screen</h3>
+        <h3>3.1.Startup Screen</h3>
         <img src="Menu.png">
         <p>This is a simple homescreen with options to start a new game, load a current save or change game settings.</p>
         </section>
     <section id="game-ui" role="doc-structure">
-        <h3>Game UI Sketches</h3>
+        <h3>3.2.Game UI Sketches</h3>
         <img src="GameUI.png">
         <p>This is the ingame UI showing the player their hit points, usable items that are equiped and a minimap to help with orientation.</p>
         </section>
     <section id="minimap" role="doc-structure">
-        <h3>Minimap</h3>
+        <h3>3.3.Minimap</h3>
         <img src="minimap.png">
         <p>The minimap from the previous section will show the player a generic outline of the area they are in and gloing points for possible places of interest.</p>
         </section>
         <section id="map" role="doc-structure">
-        <h3>The Expanded Map</h3>
+        <h3>3.4.The Expanded Map</h3>
         <img src="ExpandedMap.png">
         <p>The player can zoom out the map in a bigger window that will sou what has been discovered with markers for important places, undiscovered locations remaining hidden.</p>
         </section>
