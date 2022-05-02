@@ -52,11 +52,15 @@
     <section id="startup-screen" role="doc-structure">
         <h3>Startup Screen</h3>
         <img src="Menu.png">
-        <p>This is a simple homescreen with options to start a new game, load a current save or change game settings</p>
+        <p>This is a simple homescreen with options to start a new game, load a current save or change game settings.</p>
         </section>
     <section id="game-ui" role="doc-structure">
         <h3>Game UI Sketches</h3>
-        <p></p>
+        <img src="GameUI.png">
+        <p>This is the ingame UI showing the player their hit points, usable items that are equiped and a minimap to help with orientation.</p>
+        </section>
+    <section id="minimap" role="doc-structure">
+        <h3>Minimap</h3>
         </section>
     </header>
 </body>
