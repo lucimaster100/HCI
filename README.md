@@ -16,10 +16,11 @@
         </dl>
     <div role="contentinfo">
         <ol role="directory">
-            <li><a href="#1-project-details">Project Details</a> </li>
-            <li><a href="#2-introduction">Introduction</a> </li>
+            <li><a href="#1-project-details">Project Details</a></li>
+            <li><a href="#2-About">Introduction</a> </li>
             <ol>
-                <li><a href="#21-the-project">The Project</a></li>
+                <li><a href="#21-genre"></a>Genre</li>
+                <li><a href="#22-target"></a>Target Audience</li>
             </ol>
             <li><a href="#3-user-interface">User Interface</a>
                 <ol role="structure-directory">
