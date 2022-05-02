@@ -51,7 +51,7 @@
     </section>
     <section id="startup-screen" role="doc-structure">
         <h3>Startup Screen</h3>
-        <a href="Menu.png"><>
+        <img src="Menu.png">
         </section>
     <section id="game-ui" role="doc-structure">
         <h3>Game UI Sketches</h3>
