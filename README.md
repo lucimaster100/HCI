@@ -36,31 +36,29 @@
     </section>
     <section id="introduction" role="doc-introduction">
         <h2>2. Introduction</h2>
-        <p>ColB was implemented by Todica Lucian and Croitor Robert Constantin, two students of Faculty of computer Science and its main role is to help bottle collectors find others sharing their hobby willing to sell or buy items.</p>
+        <p> </p>
     </section>
     <section id="introduction__project" role="doc-introduction">
         <h3>2.1. The Project</h3>
-        <p>ColB is a website that allows people to search for items given different criteria like : type , value, history, lable etc.</p>
-        <p>Users can also browse other users collections for other items that they may be interested n.</p>
-        <p>A user can also share his collection externally in CSV or PDF format.</p>
+        <p></p>
     </section>
     <section id="structure" role="doc-structure">
         <h2>3. User Interface</h2>
-        <p>Every page has a very intuitive navigation bar that will help the user easily navigate trought the website. Also the pages have very easy to understand functions that help the user easily manipulate the website for its intendet purpose.</p>
+        <p></p>
     </section>
     <section id="structure__landing" role="doc-structure">
-        <h3>3.1. Home Page</h3>
-        <p>This is the page that will welcome the user to our website, it presents the website and what will it do for the user, its very easy to use and has a very simple design</p>
+        <h3></h3>
+        <p></p>
     </section>
     <section id="structure__myacc_logged" role="doc-structure">
     </section>
     <section id="structure__creationpage" role="doc-structure">
-        <h3>3.2. Register Page</h3>
-        <p>If the user doesnt have an account he can create one using unique credentials. After he created an account he will be able to log in using this page.</p>
+        <h3></h3>
+        <p></p>
     </section>
     <section id="structure__viewpage" role="doc-structure">
-        <h3>3.3.Search Page</h3>
-        <p>The user here can search an item using the searchbar or using different filters.</p>
+        <h3></h3>
+        <p></p>
     </section>
     </header>
 </body>
