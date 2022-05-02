@@ -26,6 +26,8 @@
                 <ol role="structure-directory">
                     <li><a href="#31-startap-screen">Startup Screen</a></li>
                     <li><a href="#32-game-ui">Game UI Sketches</a></li>
+                    <li><a href="#33-minimap">Game UI Sketches</a></li>
+                    <li><a href="#34-map">Game UI Sketches</a></li>
                 </ol>
             </li>
         </ol>
