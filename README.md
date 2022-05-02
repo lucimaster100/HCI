@@ -37,7 +37,7 @@
     <section id="introduction" role="doc-introduction">
         <h2>2. Introduction</h2>
     </section>
-    <section id="gemre" role="doc-introduction">
+    <section id="genre" role="doc-introduction">
         <h3>2.1.Genre</h3>
         <p>Puzzle platformer – In this game, you navigate levels using a side-scrolling view. The entire level is built with each object in place, but players only see a portion of the level. This is done by having the camera view follow the character’s movements. Players will not be able to move the camera on their own</p>
     </section>
