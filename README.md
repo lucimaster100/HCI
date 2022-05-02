@@ -61,6 +61,8 @@
         </section>
     <section id="minimap" role="doc-structure">
         <h3>Minimap</h3>
+        <img src="minimap.png">
+        <p>The minimap from the previous section will show the player a generic outline of the area they are in and gloing points for possible places of interest.</p>
         </section>
     </header>
 </body>
